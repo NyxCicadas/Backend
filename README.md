@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-16T19:48:08.786Z_
+_Last updated: 2025-02-16T19:48:38.887Z_
