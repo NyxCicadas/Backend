@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Performance improvements
 
-_Last updated: 2025-02-16T22:56:11.971Z_
+_Last updated: 2025-02-16T22:56:42.146Z_
