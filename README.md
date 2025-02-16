@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Adding better tooltips
 
-_Last updated: 2025-02-16T12:18:30.916Z_
+_Last updated: 2025-02-16T12:19:00.888Z_
