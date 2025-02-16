@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T18:38:37.621Z_
+_Last updated: 2025-02-16T18:39:07.693Z_
