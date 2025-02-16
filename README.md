@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Fixing timezone-related issues
 
-_Last updated: 2025-02-16T12:10:30.694Z_
+_Last updated: 2025-02-16T12:11:00.792Z_
