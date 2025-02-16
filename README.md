@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing pagination bugs
 
-_Last updated: 2025-02-16T13:53:32.677Z_
+_Last updated: 2025-02-16T13:54:02.757Z_
