@@ -1,3 +1,3 @@
-# Updating CI/CD pipeline
+# Adding better exception handling
 
-_Last updated: 2025-02-16T16:21:35.277Z_
+_Last updated: 2025-02-16T16:22:05.416Z_
