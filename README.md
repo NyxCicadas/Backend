@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Fixing typos in documentation
 
-_Last updated: 2025-02-16T15:25:34.233Z_
+_Last updated: 2025-02-16T15:26:04.330Z_
