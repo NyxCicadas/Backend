@@ -1,3 +1,3 @@
-# Updating changelog
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T16:20:35.315Z_
+_Last updated: 2025-02-16T16:21:05.259Z_
