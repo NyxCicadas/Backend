@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Adding better exception handling
 
-_Last updated: 2025-02-16T21:26:10.512Z_
+_Last updated: 2025-02-16T21:26:40.474Z_
