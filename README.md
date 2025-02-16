@@ -1,3 +1,3 @@
-# Improving keyboard accessibility
+# Improving error handling
 
-_Last updated: 2025-02-16T16:24:05.371Z_
+_Last updated: 2025-02-16T16:24:35.291Z_
