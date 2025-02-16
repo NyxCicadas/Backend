@@ -1,3 +1,3 @@
-# Improving API documentation
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T17:35:06.543Z_
+_Last updated: 2025-02-16T17:35:36.687Z_
