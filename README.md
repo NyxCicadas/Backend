@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Adding better tooltips
 
-_Last updated: 2025-02-16T14:27:33.639Z_
+_Last updated: 2025-02-16T14:28:03.333Z_
