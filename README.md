@@ -1,3 +1,3 @@
-# Refactoring file structure
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T17:58:36.858Z_
+_Last updated: 2025-02-16T17:59:07.010Z_
