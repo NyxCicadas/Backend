@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T14:30:33.265Z_
+_Last updated: 2025-02-16T14:31:03.348Z_
