@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T12:28:31.379Z_
+_Last updated: 2025-02-16T12:29:01.128Z_
