@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Refactoring component structure
 
-_Last updated: 2025-02-16T14:36:03.470Z_
+_Last updated: 2025-02-16T14:36:33.432Z_
