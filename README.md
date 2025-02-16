@@ -1,3 +1,3 @@
-# Rewriting inefficient algorithms
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T19:09:08.173Z_
+_Last updated: 2025-02-16T19:09:38.221Z_
