@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T13:41:32.472Z_
+_Last updated: 2025-02-16T13:42:02.455Z_
