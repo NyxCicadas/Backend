@@ -1,3 +1,3 @@
-# Refactoring state management logic
+# Reducing bundle size
 
-_Last updated: 2025-02-16T14:30:03.330Z_
+_Last updated: 2025-02-16T14:30:33.265Z_
