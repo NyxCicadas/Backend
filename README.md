@@ -1,3 +1,3 @@
-# Cleaning up unused code
+# Reducing bundle size
 
-_Last updated: 2025-02-16T19:31:38.592Z_
+_Last updated: 2025-02-16T19:32:08.464Z_
