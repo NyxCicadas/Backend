@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T23:13:55.001Z_
+_Last updated: 2025-02-17T23:14:24.850Z_
