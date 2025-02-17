@@ -1,3 +1,3 @@
-# Improving function modularity
+# Optimizing SQL queries
 
-_Last updated: 2025-02-17T20:05:51.042Z_
+_Last updated: 2025-02-17T20:06:20.975Z_
