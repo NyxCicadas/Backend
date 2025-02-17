@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Refactor README.md
 
-_Last updated: 2025-02-17T14:18:16.550Z_
+_Last updated: 2025-02-17T14:18:47.107Z_
