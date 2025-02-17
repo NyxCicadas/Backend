@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Updating example code snippets
 
-_Last updated: 2025-02-17T19:14:50.234Z_
+_Last updated: 2025-02-17T19:15:20.336Z_
