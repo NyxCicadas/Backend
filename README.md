@@ -1,3 +1,3 @@
-# Improving application startup time
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T06:59:42.791Z_
+_Last updated: 2025-02-17T07:00:12.684Z_
