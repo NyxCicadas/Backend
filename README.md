@@ -1,3 +1,3 @@
-# Improving session handling
+# Optimizing SQL performance
 
-_Last updated: 2025-02-17T04:52:41.258Z_
+_Last updated: 2025-02-17T04:53:11.179Z_
