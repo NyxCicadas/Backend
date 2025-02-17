@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T03:44:40.109Z_
+_Last updated: 2025-02-17T03:45:10.167Z_
