@@ -1,3 +1,3 @@
-# Improving database indexing
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T02:08:04.773Z_
+_Last updated: 2025-02-17T02:08:34.852Z_
