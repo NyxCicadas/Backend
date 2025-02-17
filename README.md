@@ -1,3 +1,3 @@
-# Improving application startup time
+# Updating API request parameters
 
-_Last updated: 2025-02-17T17:47:48.843Z_
+_Last updated: 2025-02-17T17:48:18.838Z_
