@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Enhancing dark mode support
 
-_Last updated: 2025-02-17T02:57:39.487Z_
+_Last updated: 2025-02-17T02:58:09.356Z_
