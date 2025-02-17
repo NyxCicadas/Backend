@@ -1,3 +1,3 @@
-# Refactoring network request handling
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T16:40:18.874Z_
+_Last updated: 2025-02-17T16:40:48.510Z_
