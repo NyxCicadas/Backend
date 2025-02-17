@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Fixing pagination bugs
 
-_Last updated: 2025-02-17T02:08:34.852Z_
+_Last updated: 2025-02-17T02:09:04.888Z_
