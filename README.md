@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-17T17:34:18.607Z_
+_Last updated: 2025-02-17T17:34:48.605Z_
