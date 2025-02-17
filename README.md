@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Updating API request parameters
 
-_Last updated: 2025-02-17T14:53:46.831Z_
+_Last updated: 2025-02-17T14:54:16.973Z_
