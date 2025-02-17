@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Updating project metadata
 
-_Last updated: 2025-02-17T18:30:19.493Z_
+_Last updated: 2025-02-17T18:30:49.506Z_
