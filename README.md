@@ -1,3 +1,3 @@
-# Improving application startup time
+# Adding better exception handling
 
-_Last updated: 2025-02-17T17:31:18.553Z_
+_Last updated: 2025-02-17T17:31:48.600Z_
