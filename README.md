@@ -1,3 +1,3 @@
-# Improving database indexing
+# Fixing UI glitches
 
-_Last updated: 2025-02-17T14:14:16.605Z_
+_Last updated: 2025-02-17T14:14:46.800Z_
