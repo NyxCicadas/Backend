@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Reducing redundant operations
 
-_Last updated: 2025-02-17T08:30:44.085Z_
+_Last updated: 2025-02-17T08:31:14.197Z_
