@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Improving session handling
 
-_Last updated: 2025-02-18T00:48:01.635Z_
+_Last updated: 2025-02-18T00:48:13.057Z_
