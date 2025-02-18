@@ -1,3 +1,3 @@
-# Improving API documentation
+# Adding better exception handling
 
-_Last updated: 2025-02-18T00:18:46.847Z_
+_Last updated: 2025-02-18T00:18:57.338Z_
