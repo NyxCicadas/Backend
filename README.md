@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Enhancing webhook reliability
 
-_Last updated: 2025-02-18T01:19:13.053Z_
+_Last updated: 2025-02-18T01:19:22.907Z_
