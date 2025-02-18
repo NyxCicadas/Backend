@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Adding multi-language support
 
-_Last updated: 2025-02-18T00:36:10.757Z_
+_Last updated: 2025-02-18T00:36:21.090Z_
