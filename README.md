@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Refactoring file structure
 
-_Last updated: 2025-02-18T00:51:11.748Z_
+_Last updated: 2025-02-18T00:51:22.401Z_
